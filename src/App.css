@@ -1,0 +1,16 @@
+.App {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+input {
+  padding: 8px;
+  width: 70%;
+  margin-right: 5px;
+}
+
+button {
+  padding: 8px;
+}
